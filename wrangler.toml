@@ -29,7 +29,7 @@ custom_domain = true
 pattern = "beta.zoom.us.sg4.tokodswara1.my.id"
 custom_domain = true
 [[routes]]
-pattern = "zoomgov.socifiles.com.sg4.tokodswara.my.id"
+pattern = "zoomgov.socifiles.com.sg4.tokodswara1.my.id"
 custom_domain = true
 
 [vars]
